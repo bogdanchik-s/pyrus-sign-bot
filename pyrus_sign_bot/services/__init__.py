@@ -1,1 +1,1 @@
-from .kontur_service import KonturService
+from .kontur_service import KonturSignService
